@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World! practice page
-Trust the GOD</h2>
+<h2>finally it works </h2>
 </body>
 </html>
